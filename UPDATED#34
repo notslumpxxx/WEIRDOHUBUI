@@ -1,1 +1,3 @@
-
+if game.PlaceId == 2788229376 then
+game.Players.LocalPlayer:Kick("Check Discord For Update!")
+end
